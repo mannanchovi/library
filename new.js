@@ -26,4 +26,4 @@ if(!this.redrawBlock){
 				this.redrawBlockUpdate = update;
 			}
 		}
-	}
+	}//yea
