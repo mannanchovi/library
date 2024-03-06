@@ -27,3 +27,7 @@ if(!this.redrawBlock){
 			}
 		}
 	}//yea
+if(force){
+			this.table.rowManager.resetScroll();
+			this.table.rowManager.reinitialize();
+		}
